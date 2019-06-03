@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "SpecOfObjectState",
+	"category" : "StateSpecs-Specs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"requiredState",
+		"maxTime"
+	],
+	"name" : "SpecOfFutureState",
+	"type" : "normal"
+}
